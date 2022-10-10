@@ -1,0 +1,6 @@
+﻿The [ChildActionOnly] attribute is used to tell that a 
+particular action could be called only as  a part of some other 
+action is the view.
+
+This is not compulsory but writing it ensures that you
+cannot invoke that action as main action.
